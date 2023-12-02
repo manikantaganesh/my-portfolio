@@ -49,7 +49,7 @@ const data = {
       description: "S.R.K.M High School."
     },
   ],
-  resumeLink: 'https://drive.google.com/file/d/1L_5Ojk9sbsqUuWEzpcvM0WFsK6HCRkfH/view?usp=sharing'
+  resumeLink: 'https://drive.google.com/file/d/1HLE_UrOB7GLdcfQWS3_bBzPWoJoIz60J/view?usp=sharing'
 }
 
 export default data;
